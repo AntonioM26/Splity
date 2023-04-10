@@ -46,6 +46,11 @@ struct ContentView: View {
                             Text("\($0) people")
                         }
                     }
+                } header: {
+                    HStack{
+                        Text("Insert the amount to be split and by how many people")
+                    }
+                    
                 }
                 
                 Section{
