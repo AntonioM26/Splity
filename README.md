@@ -17,6 +17,7 @@ As soon as the amount is inserted, Splity automatically displays the "total + ti
 <img src="https://user-images.githubusercontent.com/123912438/230915191-a9fb7b8a-133b-4e3c-a6d3-a77d6b44220c.png" width="200" /> <img src="https://user-images.githubusercontent.com/123912438/230910679-8a1473b4-2e93-4850-99bc-45a1cf82c9ac.png" width="200" />
 
 Also available in Dark mode:
+
 <img src="https://user-images.githubusercontent.com/123912438/230916232-6ca52b70-47a9-469b-af4c-22a8f0040214.png" width="200" />
 
 -- Developed by António Almeida -- 2023
